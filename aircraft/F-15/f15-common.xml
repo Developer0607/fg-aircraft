@@ -1187,8 +1187,6 @@
         <multiplay>
             <generic>
                 <!-- stores select animations; 1 per model element -->
-		<bool n="0"/>
-		<bool n="1"/>
                 <bool n="30" alias="/sim/model/f15/payload/selected/su59-l" />
                 <bool n="31" alias="/sim/model/f15/payload/selected/adu552-l1" />
                 <bool n="32" alias="/sim/model/f15/payload/selected/lau128-l1" />
@@ -1230,6 +1228,8 @@
                 <bool n="68" alias="/sim/model/f15/payload/selected/aim120-r2" />
                 <bool n="69" alias="/sim/model/f15/payload/selected/aim9-r2" />
                 <bool n="70" alias="/sim/model/f15/payload/selected/CFT-pylon-l-CFT-pylon-r" />
+		    <bool n="100">false</bool>
+		    <bool n="101">false</bool>
 
                 <float n="1">0</float> <!-- rudders  -->
                 <float n="2">0</float> <!-- left aileron  -->
