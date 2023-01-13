@@ -1228,7 +1228,7 @@
                 <bool n="68" alias="/sim/model/f15/payload/selected/aim120-r2" />
                 <bool n="69" alias="/sim/model/f15/payload/selected/aim9-r2" />
                 <bool n="70" alias="/sim/model/f15/payload/selected/CFT-pylon-l-CFT-pylon-r" />
-		    <bool n="100">false</bool>
+		    <bool n="100" alias="/sim/failure-manager/damage/fire/failure-level"/>
 		    <bool n="101">false</bool>
 
                 <float n="1">0</float> <!-- rudders  -->
