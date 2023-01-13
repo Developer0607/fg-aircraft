@@ -1317,6 +1317,19 @@
             <pitch-deg>   0 </pitch-deg>
         </offsets>
     </model>
+	
+    <!-- ******************************************************************* -->
+    <!-- damage effects                                                             -->
+    <!-- ******************************************************************* -->
+
+    <model>
+  	<name>smoking</name>
+  	<path>Aircraft/F-15/Models/Effects/damage-smoke.xml</path>
+     </model>
+    <model>
+  	<name>explosion</name>
+  	<path>Aircraft/F-15/Models/Effects/explosion.xml</path>
+     </model>
     <!-- ******************************************************************* -->
     <!-- Cockpit                                                             -->
     <!-- ******************************************************************* -->
