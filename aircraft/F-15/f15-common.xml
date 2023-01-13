@@ -1187,6 +1187,8 @@
         <multiplay>
             <generic>
                 <!-- stores select animations; 1 per model element -->
+		<bool n="0"/>
+		<bool n="1"/>
                 <bool n="30" alias="/sim/model/f15/payload/selected/su59-l" />
                 <bool n="31" alias="/sim/model/f15/payload/selected/adu552-l1" />
                 <bool n="32" alias="/sim/model/f15/payload/selected/lau128-l1" />
